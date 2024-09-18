@@ -3,6 +3,8 @@
 
 ### Definition of DBMS and its Components
 - **Database Management System (DBMS)** is a software system that uses a standard method of cataloging, retrieving, and running queries on data.
+- or A database is a collection of organized data that's stored electronically and can be accessed by multiple users.
+- or A database is an organized collection of structured information, or data, typically stored electronically in a computer system.
 - **Components of DBMS**:
   - **Hardware**: Physical devices used for storage.
   - **Software**: DBMS software, including the operating system.
